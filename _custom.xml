@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BrightKeyboardLayout gridSizeX="0.014925373" gridSizeY="0.04" defaultKeyHeight="5" defaultKeyWidth="5.58" backgroundColor="#000000" keyEdgeRadius="5" shineAreaHeight="0.1" imageLabelMarginX="1" imageLabelMarginY="0.5" defaultSubLayoutLanguage="en-US">
+    <layout name="default">
+        <key left="00.00" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        
+        <key left="00.00" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        
+        <key left="00.00" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+
+        <key left="00.00" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        
+        <key left="00.00" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        
+        <key left="00.00" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+    </layout>
+    <layout name="auxilia">
+        <key left="00.00" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        
+        <key left="00.00" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        
+        <key left="00.00" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+
+        <key left="00.00" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        
+        <key left="00.00" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        
+        <key left="00.00" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+    </layout>
+    <layout name="utility">
+        <key left="00.00" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="00"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        
+        <key left="00.00" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="4.16"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        
+        <key left="00.00" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="8.32"  label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+
+        <key left="00.00" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="12.48" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        
+        <key left="00.00" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="16.64" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        
+        <key left="00.00" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="05.58" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="11.16" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left"  />
+        <key left="16.74" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="22.32" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="27.90" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="left" />
+        <key left="33.48" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="39.06" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="44.64" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="50.22" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="55.80" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+        <key left="61.38" height="4.16" top="20.8" label="" plain="" shift="" alt="" keyType="plain" splitMode="right" />
+    </layout>
+</BrightKeyboardLayout>

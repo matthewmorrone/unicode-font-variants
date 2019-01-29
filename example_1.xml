@@ -1,0 +1,1572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BrightKeyboardLayout gridSizeX="0.014925373" gridSizeY="0.04" defaultKeyHeight="5" defaultKeyWidth="6" backgroundColor="#000000" keyEdgeRadius="5" shineAreaHeight="1.5" imageLabelMarginX="1" imageLabelMarginY="0.5" subLayoutForInputTypeNumber="num" defaultSubLayoutLanguage="en-US">
+    <layout name="main">
+        <key left="0"   top="0"  label="" plain="1" shift="!" alt="?"  keyType="plain" width="7" splitMode="left"/>
+        <key left="7"   top="0"  label="" plain="2" shift="@" alt="~"  keyType="plain"  splitMode="left"/>
+        <key left="13"  top="0"  label="" plain="3" shift="#" alt="|"  keyType="plain"  splitMode="left"/>
+        <key left="19"  top="0"  label="" plain="4" shift="$" alt="€"  keyType="plain" splitMode="left" />
+        <key left="25"  top="0"  label="" plain="5" shift="%" alt="#"  keyType="plain"  splitMode="left"/>
+        <key left="31"  top="0"  label="" plain="6" shift="^" alt=""  keyType="plain"  splitMode="right"/>
+        <key left="37"  top="0"  label="" plain="7" shift="&amp;" alt="{"  keyType="plain" splitMode="right" />
+        <key left="43"  top="0"  label="" plain="8" shift="*" alt="}"  keyType="plain"  splitMode="right"/>
+        <key left="49"  top="0"  label="" plain="9" shift="(" alt="["  keyType="plain"  splitMode="right"/>
+        <key left="55"  top="0"  label="" plain="0" shift=")" alt="]"  keyType="plain"  splitMode="right"/>
+        <key left="61"  top="0"  label="" plain="-" shift="_" alt=""  keyType="plain"  splitMode="right"/>
+        
+        <key left="0"  top="5"  label="" plain="q" shift="Q" alt="@"  keyType="plainLetter"  splitMode="left"/>
+        <key left="6"  top="5"  label="" plain="w" shift="W" alt=""  keyType="plainLetter"  splitMode="left"/>
+        <key left="12" top="5"  label="" plain="e" shift="E" alt=""  keyType="plainLetter"  splitMode="left"/>
+        <key left="18" top="5"  label="" plain="r" shift="R" alt=""  keyType="plainLetter"  splitMode="left"/>
+        <key left="24" top="5"  label="" plain="t" shift="T" alt=""  keyType="plainLetter"  splitMode="left"/>
+        <key left="30" top="5"  label="" plain="y" shift="Y" alt=""  keyType="plainLetter"  splitMode="right"/>
+        <key left="36" top="5"  label="" plain="u" shift="U" alt=""  keyType="plainLetter"  splitMode="right"/>
+        <key left="42" top="5"  label="" plain="i" shift="I" alt=""  keyType="plainLetter"  splitMode="right"/>
+        <key left="48" top="5"  label="" plain="o" shift="O" alt=""  keyType="plainLetter"  splitMode="right"/>
+        <key left="54" top="5"  label="" plain="p" shift="P" alt=""  keyType="plainLetter"  splitMode="right"/>
+        <key left="60" top="5"  label="" plain="=" shift="+" alt=""  keyType="plain" width="7" splitMode="right"/>
+        
+        <key left="0"   top="10" label="" plain="a" shift="A" alt=""  keyType="plainLetter" width="7" splitMode="left"/>
+        <key left="7"   top="10" label="" plain="s" shift="S" alt=""  keyType="plainLetter"  splitMode="left"/>
+        <key left="13"  top="10" label="" plain="d" shift="D" alt=""  keyType="plainLetter"  splitMode="left"/>
+        <key left="19"  top="10" label="" plain="f" shift="F" alt=""  keyType="plainLetter"  splitMode="left"/>
+        <key left="25"  top="10" label="" plain="g" shift="G" alt=""  keyType="plainLetter"  splitMode="left"/>
+        <key left="31"  top="10" label="" plain="h" shift="H" alt=""  keyType="plainLetter"  splitMode="right"/>
+        <key left="37"  top="10" label="" plain="j" shift="J" alt=""  keyType="plainLetter"  splitMode="right"/>
+        <key left="43"  top="10" label="" plain="k" shift="K" alt=""  keyType="plainLetter"  splitMode="right"/>
+        <key left="49"  top="10" label="" plain="l" shift="L" alt=""  keyType="plainLetter"  splitMode="right"/>
+        <key left="55"  top="10" label="" plain=":" shift=";" alt="*"  keyType="plain"  splitMode="right"/>
+        <key left="61"  top="10" labelImage="backspace" keyCode="backspace" keyType="function" height="10" splitMode="right"/>
+        
+        <key left="0"  top="15" labelImage="shift" keyCode="shift" keyType="shift"  splitMode="left"/>
+        <key left="6"  top="15" label="" plain="z" shift="Z" alt=""  keyType="plainLetter"  splitMode="left"/>
+        <key left="12" top="15" label="" plain="x" shift="X" alt=""  keyType="plainLetter"  splitMode="left"/>
+        <key left="18" top="15" label="" plain="c" shift="C" alt=""  keyType="plainLetter"  splitMode="left"/>
+        <key left="24" top="15" label="" plain="v" shift="V" alt=""  keyType="plainLetter"  splitMode="left"/>
+        <key left="30" top="15" label="" plain="b" shift="B" alt=""  keyType="plainLetter"  splitMode="right"/>
+        <key left="36" top="15" label="" plain="n" shift="N" alt=""  keyType="plainLetter"  splitMode="right"/>
+        <key left="42" top="15" label="" plain="m" shift="M" alt=""  keyType="plainLetter"  splitMode="right"/>
+        <key left="48" top="15" label="" plain="," shift="&lt;" alt="\"  keyType="plain"  splitMode="right"/>
+        <key left="54" top="15" label="" plain="." shift="&gt;" alt="/"  keyType="plain" width="7" splitMode="right"/>
+        
+        <key left="0"  top="20" label=". . ." plain="" shift="" alt="" keyCode="changeLayout" targetLayout="special" keyType="option" splitMode="left"/>
+        <key left="6"  top="20" label="Ctrl" plain="" shift="" alt="" keyCode="control" keyType="control"  splitMode="left"/>
+        <key left="12" top="20" label="Alt" plain="" shift="" alt="" keyCode="alt" keyType="alt" splitMode="left" />
+        <key left="18" top="20" labelImage="user" keyCode="changeLayout" targetLayout="userDefinedKeys" keyType="option" splitMode="left"/>
+        <key left="24" top="20" keyType="function" keyCode="spaceAndOptionalSwitchKeyboard" width="19"  splitMode="stretch"/>
+        <key left="43" top="20" labelImage="hide" plain="" shift="" alt="" keyCode="hide" keyType="option"  splitMode="right"/>
+        <key left="49" top="20" label="" plain="'" shift="&quot;" alt="`"  keyType="plain"  splitMode="right"/>
+        <key left="55" top="20" labelImage="delete" keyCode="delete" keyType="function"  splitMode="right"/>
+        <key left="61" top="20" labelImage="enter" keyCode="enter" keyType="function" splitMode="right" />
+        
+        <key left="-4"  top="10" labelImage="cursor_up" keyCode="cursorUp" keyType="function" width="8" splitMode="onlyInGap"/>
+        <key left="-12" top="15" labelImage="cursor_left" keyCode="cursorLeft" keyType="function" width="8" splitMode="onlyInGap"/>
+        <key left="-4"  top="15" labelImage="cursor_down" keyCode="cursorDown" keyType="function" width="8" splitMode="onlyInGap"/>
+        <key left="4"   top="15" labelImage="cursor_right" keyCode="cursorRight" keyType="function" width="8" splitMode="onlyInGap"/>
+        <key left="-12" top="0" labelImage="cut" keyCode="cut" keyType="function"  splitMode="onlyInGap"/>
+        <key left="-6"  top="0" labelImage="copy" keyCode="copy" keyType="function"  splitMode="onlyInGap"/>
+        <key left="0"   top="0" labelImage="paste" keyCode="paste" keyType="function" splitMode="onlyInGap"/>
+        <key left="6"   top="0" labelImage="history" keyCode="changeLayout" targetLayout="clipboardHistory" keyType="option" splitMode="onlyInGap"/>
+        <key left="6"   top="5" labelImage="hand" keyCode="devTools" keyType="function" splitMode="onlyInGap"/>
+        
+    </layout>
+    <layout name="special">
+        <key left="0" top="0" width="7" splitMode="left" keyType="function" keyCode="speechInput" label="Esc" labelImage="ic_action_mic"/>
+        <key left="7" top="0" splitMode="left" keyType="function" keyCode="escape" label="Esc"/>
+        <key left="13" top="0" splitMode="left" keyType="function" keyCode="F1" label="F1"/>
+        <key left="19" top="0" splitMode="left" keyType="function" keyCode="F2" label="F2"/>
+        <key left="25" top="0" splitMode="left" keyType="function" keyCode="F3" label="F3"/>
+        <key left="31" top="0" splitMode="right" keyType="function" keyCode="F4" label="F4"/>
+        <key left="37" top="0" splitMode="right" keyType="function" keyCode="F5" label="F5"/>
+        <key left="43" top="0" splitMode="right" keyType="function" keyCode="F6" label="F6"/>
+        <key left="49" top="0" splitMode="right" keyType="function" keyCode="F7" label="F7"/>
+        <key left="55" top="0" splitMode="right" keyType="function" keyCode="F8" label="F8"/>
+        <key left="61" top="0" splitMode="right" keyType="function" keyCode="F9" label="F9"/>
+
+        <key left="0" top="5" width="7" splitMode="left" keyType="function" keyCode="tab" label="Tab"/>
+        <key left="7" top="5" splitMode="left" keyType="function" keyCode="cut" labelImage="cut"/>
+        <key left="13" top="5" splitMode="left" keyType="function" keyCode="copy" labelImage="copy"/>
+        <key left="19" top="5" splitMode="left" keyType="function" keyCode="paste" labelImage="paste"/>
+        <key left="25" top="5" splitMode="left" keyType="function" keyCode="selectAll" labelImage="select_all"/>
+        <key left="31" top="5" splitMode="right" keyType="function" keyCode="insert" label="Ins"/>
+        <key left="37" top="5" splitMode="right" keyType="function" keyCode="pause" label="Pse"/>
+        <key left="43" top="5" splitMode="right" keyType="function" keyCode="print" label="Prt"/>
+        <key left="49" top="5" splitMode="right" keyType="function" keyCode="F10" label="F10"/>
+        <key left="55" top="5" splitMode="right" keyType="function" keyCode="F11" label="F11"/>
+        <key left="61" top="5" splitMode="right" keyType="function" keyCode="F11" label="F12"/>
+        
+        <key left="0"   top="10" label="" plain="[" shift="{" alt="#"  keyType="plain"  width="7" splitMode="left"/>
+        <key left="7"   top="10" label="" plain="]" shift="}" alt="°"  keyType="plain"  splitMode="left"/>
+        <key left="13"  top="10" label="" plain="\" shift="|" alt=""  keyType="plain"  splitMode="left"/>
+        <key left="19"  top="10" label="" plain="/" shift="?" alt=""  keyType="plain"  splitMode="left"/>
+        <key left="25"  top="10" labelImage="page_up" keyCode="pageUp" keyType="function"  splitMode="left"/>
+        <key left="31" top="10" labelImage="home" keyCode="home" keyType="function"  splitMode="right"/>
+        <key left="45"  top="10" labelImage="cursor_up" keyCode="cursorUp" keyType="function" width="8" splitMode="right"/>
+        <key left="55"  top="10" labelImage="hand" keyCode="devTools" keyType="function" splitMode="right"/>
+        <key left="61"  top="10" labelImage="backspace" keyCode="backspace" keyType="function" height="10" splitMode="right"/>
+        
+        <key left="0"  top="15" labelImage="shift" keyCode="shift" keyType="shift"  splitMode="left"/>
+        <key left="6"  top="15" plain="~" shift="`" alt="^" keyType="plain" width="7" splitMode="left"/>
+        <key left="13"  top="15" label="" plain="," shift="&lt;" alt=""  keyType="plain" splitMode="left" />
+        <key left="19" top="15" label="" plain="." shift="&gt;" alt=""  keyType="plain"  splitMode="left"/>
+        <key left="25"  top="15" labelImage="page_down" keyCode="pageDown" keyType="function" splitMode="left" />
+        <key left="31" top="15" labelImage="end" keyCode="end" keyType="function" splitMode="right" />
+        <key left="37" top="15" labelImage="cursor_left" keyCode="cursorLeft" keyType="function" width="8" splitMode="right"/>
+        <key left="45" top="15" labelImage="cursor_down" keyCode="cursorDown" keyType="function" width="8" splitMode="right"/>
+        <key left="53" top="15" labelImage="cursor_right" keyCode="cursorRight" keyType="function" width="8" splitMode="right"/>
+        
+        <key left="0"  top="20" label=". . ." plain="" shift="" alt="" keyCode="changeLayout" targetLayout="main" keyType="option" splitMode="left"/>
+        <key left="6"  top="20" label="Ctrl" plain="" shift="" alt="" keyCode="control" keyType="control"  splitMode="left"/>
+        <key left="12" top="20" label="Alt" plain="" shift="" alt="" keyCode="alt" keyType="alt"  splitMode="left"/>
+        <key left="18" top="20" labelImage="history" keyCode="changeLayout" targetLayout="clipboardHistory" keyType="option" splitMode="left"/>
+        <key left="24" top="20" keyType="function" keyCode="spaceAndOptionalSwitchKeyboard" width="19"  splitMode="stretch"/>
+        <key left="43" top="20" labelImage="hide" plain="" shift="" alt="" keyCode="hide" keyType="option"  splitMode="right"/>
+        <key left="49" top="20" labelImage="options" keyCode="options" keyType="option" splitMode="right" />
+        <key left="55" top="20" labelImage="delete" keyCode="delete" keyType="function" splitMode="right" />
+        <key left="61" top="20" labelImage="enter" keyCode="enter" keyType="function" splitMode="right" />
+    </layout>
+    <layout name="clipboardHistory">
+        <key left="0"  top="0"  label="" keyCode="clipboardHistoryEntry1" keyType="function" width="59"  splitMode="stretch"/>
+        <key left="0"  top="5"  label="" keyCode="clipboardHistoryEntry2" keyType="function" width="59"  splitMode="stretch"/>
+        <key left="0"  top="10" label="" keyCode="clipboardHistoryEntry3" keyType="function" width="59"  splitMode="stretch"/>
+        <key left="0"  top="15" label="" keyCode="clipboardHistoryEntry4" keyType="function" width="59"  splitMode="stretch"/>
+
+        <key left="59" top="0" labelImage="cursor_up" keyCode="clipboardHistoryScrollUp" keyType="function" width="8" height="10" splitMode="right"/>
+        <key left="59" top="10" labelImage="cursor_down" keyCode="clipboardHistoryScrollDown" keyType="function" width="8" height="10" splitMode="right"/>
+
+        <key left="0"  top="20" label="A B C" plain="" shift="" alt="" keyCode="changeLayout" targetLayout="main" keyType="option" width="12" splitMode="left"/>
+        <key left="12" top="20" label="Special" plain="" shift="" alt="" keyCode="changeLayout" targetLayout="special" keyType="option" width="12" splitMode="left"/>
+        <key left="24"  top="20" labelImage="cut" keyCode="cut" keyType="function"  splitMode="left"/>
+        <key left="30" top="20" labelImage="copy" keyCode="copy" keyType="function"  splitMode="left"/>
+        <key left="36" top="20" labelImage="paste" keyCode="paste" keyType="function" splitMode="right"/>
+        <key left="43" top="20" labelImage="hide" plain="" shift="" alt="" keyCode="hide" keyType="option"  splitMode="right"/>
+        <key left="49" top="20" labelImage="options" keyCode="options" keyType="option" splitMode="right" />
+        <key left="61" top="20" labelImage="clear" plain="" shift="" alt="" keyCode="clearClipboardHistory" keyType="function" splitMode="left"/>
+    </layout>
+    <layout name="userDefinedKeys" nextLayout="main">
+        <key left="0" top="0" width="21" splitMode="left" keyType="function" keyCode="userDefinedKey1"/>
+        <key left="0" top="5" width="21" splitMode="left" keyType="function" keyCode="userDefinedKey4"/>
+        <key left="0" top="10" width="21" splitMode="left" keyType="function" keyCode="userDefinedKey7"/>
+        <key left="0" top="15" width="21" splitMode="left" keyType="function" keyCode="userDefinedKey10"/>
+        <key left="23" top="0" width="21" splitMode="stretch" keyType="function" keyCode="userDefinedKey2"/>
+        <key left="23" top="5" width="21" splitMode="stretch" keyType="function" keyCode="userDefinedKey5"/>
+        <key left="23" top="10" width="21" splitMode="stretch" keyType="function" keyCode="userDefinedKey8"/>
+        <key left="23" top="15" width="21" splitMode="stretch" keyType="function" keyCode="userDefinedKey11"/>
+        <key left="46" top="0" width="21" splitMode="right" keyType="function" keyCode="userDefinedKey3"/>
+        <key left="46" top="5" width="21" splitMode="right" keyType="function" keyCode="userDefinedKey6"/>
+        <key left="46" top="10" width="21" splitMode="right" keyType="function" keyCode="userDefinedKey9"/>
+        <key left="46" top="15" width="21" splitMode="right" keyType="function" keyCode="userDefinedKey12"/>
+        <key left="0" top="20" width="12" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label="A B C"/>
+        <key left="12" top="20" width="12" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="special" label="Special"/>
+        <key left="43" top="20" splitMode="right" keyType="option" keyCode="hide" labelImage="hide"/>
+        <key left="49" top="20" splitMode="right" keyType="option" keyCode="options" labelImage="options"/>
+        <key left="55" top="20" splitMode="right" keyType="function" keyCode="timeStamp" labelImage="time"/>
+        <key left="24" top="20" width="12" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F603} $emoji{U+1F43A} $emoji{U+1F381} $emoji{U+1F3E5} $emoji{U+1F532}"/>
+    </layout>
+    <layout name="num">
+        <key left="0" top="0" splitMode="left" plain="+" keyType="plain"/>
+        <key left="6" top="0" splitMode="left" plain="-" keyType="plain"/>
+        <key left="0" top="5" splitMode="left" plain="*" keyType="plain"/>
+        <key left="6" top="5" splitMode="left" plain="/" keyType="plain"/>
+        <key left="0" top="10" splitMode="left" plain="(" keyType="plain"/>
+        <key left="6" top="10" splitMode="left" plain=")" keyType="plain"/>
+        <key left="0" top="15" splitMode="left" keyType="function" keyCode="tab" label="Tab"/>
+        <key left="6" top="15" splitMode="left" plain="=" keyType="plain"/>
+        
+        <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+        <key left="6" top="20" splitMode="left" keyType="option" keyCode="hide" labelImage="hide"/>
+        
+        <key left="16" top="0" width="12" height="6" splitMode="right" plain="7" keyType="plain"/>
+        <key left="28" top="0" width="12" height="6" splitMode="right" plain="8" keyType="plain"/>
+        <key left="40" top="0" width="12" height="6" splitMode="right" plain="9" keyType="plain"/>
+        <key left="16" top="6" width="12" height="6" splitMode="right" plain="4" keyType="plain"/>
+        <key left="28" top="6" width="12" height="6" splitMode="right" plain="5" keyType="plain"/>
+        <key left="40" top="6" width="12" height="6" splitMode="right" plain="6" keyType="plain"/>
+        <key left="16" top="12" width="12" height="6" splitMode="right" plain="1" keyType="plain"/>
+        <key left="28" top="12" width="12" height="6" splitMode="right" plain="2" keyType="plain"/>
+        <key left="40" top="12" width="12" height="6" splitMode="right" plain="3" keyType="plain"/>
+        <key left="16" top="18" width="12" height="6" splitMode="right" plain="." keyType="plain"/>
+        <key left="28" top="18" width="12" height="6" splitMode="right" plain="0" keyType="plain"/>
+        <key left="40" top="18" width="12" height="6" splitMode="right" plain="," keyType="plain"/>
+
+        <key left="55" top="12" width="12" height="6" splitMode="right" keyType="function" keyCode="delete" labelImage="delete"/>
+        <key left="55" top="0" width="12" height="12" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+        <key left="55" top="18" width="12" height="7" splitMode="right" keyType="function" keyCode="enter" labelImage="enter"/>
+    </layout>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <layout name="Personen1">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F604}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F603}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F600}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F60A}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+263A}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F609}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F60D}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F618}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F61A}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F617}" />
+    
+    
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen5" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F619}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F61C}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F61D}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F61B}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F633}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F601}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F614}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F60C}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F612}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F61E}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="1/5" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F623}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F622}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F602}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F62D}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F62A}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F625}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F630}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F605}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F613}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+1F629}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen2" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F62B}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F628}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F631}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F620}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F621}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F624}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F616}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F606}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F60B}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+1F637}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Personen2">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F60E}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F634}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F635}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F632}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F61F}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F626}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F627}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F608}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F47F}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F62E}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F62C}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F610}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F615}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F62F}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F636}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F607}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F60F}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F611}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F472}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F473}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="2/5" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F46E}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F477}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F482}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F476}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F466}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F467}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F468}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F469}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F474}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+1F475}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen3" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F471}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F47C}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F478}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F63A}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F638}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F63B}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F63D}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F63C}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F640}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+1F63F}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Personen3">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F639}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F63E}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F479}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F47A}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F648}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F649}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F64A}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F480}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F47D}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4A9}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen2" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F525}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+2728}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F31F}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4AB}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4A5}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4A2}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4A6}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4A7}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4A4}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4A8}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="3/5" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F442}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F440}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F443}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F445}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F444}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F44D}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F44E}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F44C}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F44A}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+270A}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen4" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+270C}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F44B}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+270B}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F450}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F446}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F447}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F449}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F448}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F64C}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+1F64F}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Personen4">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+261D}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F44F}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4AA}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F6B6}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3C3}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F483}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F46B}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F46A}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F46C}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F46D}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen3" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F48F}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F491}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F46F}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F646}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F645}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F481}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F64B}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F486}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F487}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F485}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="4/5" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F470}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F64E}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F64D}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F647}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F3A9}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F451}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F452}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F45F}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F45E}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+1F461}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen5" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F460}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F462}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F455}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F454}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F45A}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F457}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F3BD}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F456}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F458}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+1F459}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Personen5">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4BC}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F45C}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F45D}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F45B}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F453}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F380}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F302}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F484}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F49B}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F499}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen4" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F49C}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F49A}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+2764}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F494}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F497}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F493}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F495}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F496}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F49E}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F498}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="5/5" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F48C}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F48B}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F48D}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F48E}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F464}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F465}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4AC}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F463}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4AD}" />
+    <key left="56" top="10" splitMode="left" keyType="label" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="label" />
+    <key left="11.2" top="15" splitMode="left" keyType="label" />
+    <key left="16.8" top="15" splitMode="left" keyType="label" />
+    <key left="22.4" top="15" splitMode="left" keyType="label" />
+    <key left="28" top="15" splitMode="left" keyType="label" />
+    <key left="33.6" top="15" splitMode="left" keyType="label" />
+    <key left="39.2" top="15" splitMode="left" keyType="label" />
+    <key left="44.8" top="15" splitMode="left" keyType="label" />
+    <key left="50.4" top="15" splitMode="left" keyType="label" />
+    <key left="56" top="15" splitMode="left" keyType="label" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Natur1">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F436}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F43A}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F431}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F42D}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F439}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F430}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F438}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F42F}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F428}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F43B}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur3" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F437}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F43D}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F42E}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F417}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F435}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F412}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F434}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F411}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F418}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F43C}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="1/3" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F427}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F426}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F424}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F425}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F423}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F414}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F40D}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F422}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F41B}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+1F41D}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur2" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F41C}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F41E}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F40C}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F419}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F41A}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F420}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F41F}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F42C}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F433}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+1F40B}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Natur2">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F404}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F40F}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F400}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F403}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F405}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F407}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F409}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F40E}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F410}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F413}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F415}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F416}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F401}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F402}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F432}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F421}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F40A}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F42B}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F42A}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F406}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="2/3" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F408}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F429}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F43E}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F490}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F338}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F337}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F340}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F339}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F33B}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+1F33A}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur3" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F341}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F343}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F342}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F33F}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F33E}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F344}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F335}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F334}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F332}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+1F333}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Natur3">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F330}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F331}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F33C}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F310}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F31E}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F31D}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F31A}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F311}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F312}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F313}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur2" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F314}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F315}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F316}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F317}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F318}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F31C}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F31B}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F319}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F30D}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F30E}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="3/3" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F30F}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F30B}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F30C}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F320}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+2B50}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+2600}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+26C5}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+2601}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+26A1}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+2614}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+2744}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+26C4}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F300}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F301}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F308}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F30A}" />
+    <key left="39.2" top="15" splitMode="left" keyType="label" />
+    <key left="44.8" top="15" splitMode="left" keyType="label" />
+    <key left="50.4" top="15" splitMode="left" keyType="label" />
+    <key left="56" top="15" splitMode="left" keyType="label" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Objekte1">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F38D}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F49D}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F38E}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F392}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F393}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F38F}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F386}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F387}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F390}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F391}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte6" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F383}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F47B}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F385}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F384}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F381}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F38B}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F389}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F38A}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F388}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F38C}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="1/6" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F52E}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F3A5}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4F7}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4F9}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4FC}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4BF}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4C0}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4BD}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4BE}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4BB}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte2" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4F1}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+260E}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4DE}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4DF}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4E0}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4E1}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4FA}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4FB}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F50A}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+1F509}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Objekte2">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F508}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F507}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F514}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F515}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4E2}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4E3}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+23F3}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+231B}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+23F0}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+231A}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F513}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F512}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F50F}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F510}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F511}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F50E}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4A1}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F526}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F506}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F505}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="2/6" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F50C}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F50B}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F50D}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F6C1}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F6C0}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F6BF}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F6BD}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F527}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F529}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+1F528}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte3" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F6AA}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F6AC}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4A3}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F52B}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F52A}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F48A}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F489}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4B0}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4B4}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4B5}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Objekte3">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4B7}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4B6}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4B3}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4B8}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4F2}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4E7}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4E5}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4E4}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+2709}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4E9}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte2" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4E8}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4EF}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4EB}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4EA}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4EC}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4ED}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4EE}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4E6}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4DD}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4C4}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="3/6" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4C3}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4D1}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4CA}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4C8}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4C9}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4DC}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4CB}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4C5}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4C6}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+1F4C7}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte4" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4C1}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4C2}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+2702}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4CC}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4CE}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+2712}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+270F}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4CF}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4D0}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4D5}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Objekte4">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4D7}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4D8}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4D9}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4D3}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4D4}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4D2}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4DA}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4D6}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F516}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4DB}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte3" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F52C}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F52D}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4F0}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F3A8}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F3AC}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F3A4}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F3A7}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F3BC}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F3B5}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F3B6}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="4/6" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F3B9}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F3BB}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F3BA}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F3B7}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F3B8}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F47E}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F3AE}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F0CF}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F3B4}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+1F004}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte5" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F3B2}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F3AF}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F3C8}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F3C0}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+26BD}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+26BE}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F3BE}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F3B1}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F3C9}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+1F3B3}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Objekte5">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+26F3}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F6B5}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F6B4}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3C1}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3C7}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3C6}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3BF}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3C2}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3CA}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3C4}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte4" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F3A3}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+2615}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F375}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F376}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F37C}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F37A}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F37B}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F379}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F377}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F374}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="5/6" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F355}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F354}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F35F}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F357}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F356}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F35D}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F35B}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F364}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F371}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+1F363}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte6" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F365}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F359}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F358}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F35A}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F35C}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F372}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F362}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F361}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F373}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+1F35E}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Objekte6">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F369}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F36E}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F366}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F368}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F367}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F382}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F370}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F36A}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F36B}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F36C}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte5" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F36D}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F36F}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F34E}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F34F}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F34A}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F34B}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F352}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F347}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F349}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F353}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="6/6" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F351}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F348}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F34C}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F350}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F34D}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F360}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F346}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F345}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F33D}" />
+    <key left="56" top="10" splitMode="left" keyType="label" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="label" />
+    <key left="11.2" top="15" splitMode="left" keyType="label" />
+    <key left="16.8" top="15" splitMode="left" keyType="label" />
+    <key left="22.4" top="15" splitMode="left" keyType="label" />
+    <key left="28" top="15" splitMode="left" keyType="label" />
+    <key left="33.6" top="15" splitMode="left" keyType="label" />
+    <key left="39.2" top="15" splitMode="left" keyType="label" />
+    <key left="44.8" top="15" splitMode="left" keyType="label" />
+    <key left="50.4" top="15" splitMode="left" keyType="label" />
+    <key left="56" top="15" splitMode="left" keyType="label" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Orte1">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3E0}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3E1}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3EB}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3E2}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3E3}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3E6}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3EA}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3E9}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3E8}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte3" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F492}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+26EA}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F3EC}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F3E4}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F307}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F306}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F3EF}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F3F0}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+26FA}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F3ED}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="1/3" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F5FC}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F5FE}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F5FB}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F304}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F305}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F303}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F5FD}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F309}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F3A0}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+1F3A1}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte2" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+26F2}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F3A2}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F6A2}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+26F5}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F6A4}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F6A3}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+2693}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F680}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+2708}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4BA}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Orte2">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F681}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F682}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F68A}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F689}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F69E}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F686}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F684}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F685}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F688}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F687}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F69D}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F68B}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F683}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F68E}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F68C}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F68D}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F699}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F698}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F697}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F695}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="2/3" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F696}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F69B}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F69A}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F6A8}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F693}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F694}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F692}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F691}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F690}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+1F6B2}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte3" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F6A1}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F69F}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F6A0}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F69C}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F488}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F68F}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F3AB}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F6A6}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F6A5}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+26A0}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Orte3">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F6A7}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F530}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+26FD}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3EE}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3B0}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+2668}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F5FF}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3AA}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3AD}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4CD}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte2" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F6A9}" />
+    <key left="11.2" top="5" splitMode="left" keyType="label" />
+    <key left="16.8" top="5" splitMode="left" keyType="label" />
+    <key left="22.4" top="5" splitMode="left" keyType="label" />
+    <key left="28" top="5" splitMode="left" keyType="label" />
+    <key left="33.6" top="5" splitMode="left" keyType="label" />
+    <key left="39.2" top="5" splitMode="left" keyType="label" />
+    <key left="44.8" top="5" splitMode="left" keyType="label" />
+    <key left="50.4" top="5" splitMode="left" keyType="label" />
+    <key left="56" top="5" splitMode="left" keyType="label" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="3/3" />
+    <key left="5.6" top="10" splitMode="left" keyType="label" />
+    <key left="11.2" top="10" splitMode="left" keyType="label" />
+    <key left="16.8" top="10" splitMode="left" keyType="label" />
+    <key left="22.4" top="10" splitMode="left" keyType="label" />
+    <key left="28" top="10" splitMode="left" keyType="label" />
+    <key left="33.6" top="10" splitMode="left" keyType="label" />
+    <key left="39.2" top="10" splitMode="left" keyType="label" />
+    <key left="44.8" top="10" splitMode="left" keyType="label" />
+    <key left="50.4" top="10" splitMode="left" keyType="label" />
+    <key left="56" top="10" splitMode="left" keyType="label" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="label" />
+    <key left="11.2" top="15" splitMode="left" keyType="label" />
+    <key left="16.8" top="15" splitMode="left" keyType="label" />
+    <key left="22.4" top="15" splitMode="left" keyType="label" />
+    <key left="28" top="15" splitMode="left" keyType="label" />
+    <key left="33.6" top="15" splitMode="left" keyType="label" />
+    <key left="39.2" top="15" splitMode="left" keyType="label" />
+    <key left="44.8" top="15" splitMode="left" keyType="label" />
+    <key left="50.4" top="15" splitMode="left" keyType="label" />
+    <key left="56" top="15" splitMode="left" keyType="label" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Symbole1">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F51F}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F522}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F523}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+2B06}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+2B07}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+2B05}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+27A1}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F520}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F521}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F524}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole5" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+2197}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+2196}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+2198}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+2199}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+2194}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+2195}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F504}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+25C0}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+25B6}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F53C}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="1/5" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F53D}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+21A9}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+21AA}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+2139}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+23EA}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+23E9}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+23EB}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+23EC}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+2935}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+2934}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole2" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F197}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F500}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F501}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F502}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F195}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F199}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F192}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F193}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F196}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4F6}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Symbole2">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F3A6}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F201}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F22F}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F233}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+1F235}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F234}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F232}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F250}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F239}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F23A}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F236}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F21A}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F6BB}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F6B9}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F6BA}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F6BC}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F6BE}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F6B0}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F6AE}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F17F}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="2/5" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+267F}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F6AD}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F237}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F238}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F202}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+24C2}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F6C2}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F6C4}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F6C5}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+1F6C3}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole3" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F251}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+3299}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+3297}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F191}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F198}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F194}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F6AB}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F51E}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4F5}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+1F6AF}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Symbole3">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+1F6B1}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+1F6B3}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+1F6B7}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F6B8}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+26D4}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+2733}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+2747}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+274E}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+2705}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+2734}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole2" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F49F}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F19A}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4F3}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4F4}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F170}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F171}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F18E}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F17E}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F4A0}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+27BF}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="3/5" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+267B}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+2648}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+2649}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+264A}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+264B}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+264C}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+264D}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+264E}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+264F}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+2650}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole4" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+2651}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+2652}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+2653}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+26CE}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F52F}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F3E7}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4B9}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4B2}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F4B1}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+00A9}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Symbole4">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+00AE}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+2122}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+274C}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+203C}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+2049}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+2757}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+2753}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+2755}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+2754}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+2B55}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole3" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F51D}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F51A}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F519}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F51B}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+1F51C}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+1F503}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+1F55B}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F567}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F550}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+1F55C}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="4/5" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F551}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F55D}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F552}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F55E}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F553}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F55F}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F554}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+1F560}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+1F555}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+1F556}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole5" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F557}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F558}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F559}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F55A}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F561}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F562}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F563}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F564}" />
+    <key left="50.4" top="15" splitMode="left" keyType="text" label="$emoji{U+1F565}" />
+    <key left="56" top="15" splitMode="left" keyType="text" label="$emoji{U+1F566}" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>
+  <layout name="Symbole5">
+    <key left="0" top="0" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" label=". . ."/>
+    <key left="5.6" top="0" splitMode="left" keyType="text" label="$emoji{U+2716}" />
+    <key left="11.2" top="0" splitMode="left" keyType="text" label="$emoji{U+2795}" />
+    <key left="16.8" top="0" splitMode="left" keyType="text" label="$emoji{U+2796}" />
+    <key left="22.4" top="0" splitMode="left" keyType="text" label="$emoji{U+2797}" />
+    <key left="28" top="0" splitMode="left" keyType="text" label="$emoji{U+2660}" />
+    <key left="33.6" top="0" splitMode="left" keyType="text" label="$emoji{U+2665}" />
+    <key left="39.2" top="0" splitMode="left" keyType="text" label="$emoji{U+2663}" />
+    <key left="44.8" top="0" splitMode="left" keyType="text" label="$emoji{U+2666}" />
+    <key left="50.4" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4AE}" />
+    <key left="56" top="0" splitMode="left" keyType="text" label="$emoji{U+1F4AF}" />
+    <key left="61.6" top="0" width="5.4" height="10" splitMode="right" keyType="function" keyCode="backspace" labelImage="backspace"/>
+    <key left="0" top="5" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole4" label="$emoji{U+2B06}" />
+    <key left="5.6" top="5" splitMode="left" keyType="text" label="$emoji{U+2714}" />
+    <key left="11.2" top="5" splitMode="left" keyType="text" label="$emoji{U+2611}" />
+    <key left="16.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F518}" />
+    <key left="22.4" top="5" splitMode="left" keyType="text" label="$emoji{U+1F517}" />
+    <key left="28" top="5" splitMode="left" keyType="text" label="$emoji{U+27B0}" />
+    <key left="33.6" top="5" splitMode="left" keyType="text" label="$emoji{U+3030}" />
+    <key left="39.2" top="5" splitMode="left" keyType="text" label="$emoji{U+303D}" />
+    <key left="44.8" top="5" splitMode="left" keyType="text" label="$emoji{U+1F531}" />
+    <key left="50.4" top="5" splitMode="left" keyType="text" label="$emoji{U+25FC}" />
+    <key left="56" top="5" splitMode="left" keyType="text" label="$emoji{U+25FB}" />
+    
+    <key left="0" top="10" splitMode="left" keyType="label" label="5/5" />
+    <key left="5.6" top="10" splitMode="left" keyType="text" label="$emoji{U+25FE}" />
+    <key left="11.2" top="10" splitMode="left" keyType="text" label="$emoji{U+25FD}" />
+    <key left="16.8" top="10" splitMode="left" keyType="text" label="$emoji{U+25AA}" />
+    <key left="22.4" top="10" splitMode="left" keyType="text" label="$emoji{U+25AB}" />
+    <key left="28" top="10" splitMode="left" keyType="text" label="$emoji{U+1F53A}" />
+    <key left="33.6" top="10" splitMode="left" keyType="text" label="$emoji{U+1F532}" />
+    <key left="39.2" top="10" splitMode="left" keyType="text" label="$emoji{U+1F533}" />
+    <key left="44.8" top="10" splitMode="left" keyType="text" label="$emoji{U+26AB}" />
+    <key left="50.4" top="10" splitMode="left" keyType="text" label="$emoji{U+26AA}" />
+    <key left="56" top="10" splitMode="left" keyType="text" label="$emoji{U+1F534}" />
+    <key left="61.6" top="10" width="5.4" splitMode="right" keyType="function" keyCode="enter" labelImage="enter" />
+    <key left="0" top="15" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+2B07}" />
+    <key left="5.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F535}" />
+    <key left="11.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F53B}" />
+    <key left="16.8" top="15" splitMode="left" keyType="text" label="$emoji{U+2B1C}" />
+    <key left="22.4" top="15" splitMode="left" keyType="text" label="$emoji{U+2B1B}" />
+    <key left="28" top="15" splitMode="left" keyType="text" label="$emoji{U+1F536}" />
+    <key left="33.6" top="15" splitMode="left" keyType="text" label="$emoji{U+1F537}" />
+    <key left="39.2" top="15" splitMode="left" keyType="text" label="$emoji{U+1F538}" />
+    <key left="44.8" top="15" splitMode="left" keyType="text" label="$emoji{U+1F539}" />
+    <key left="50.4" top="15" splitMode="left" keyType="label" />
+    <key left="56" top="15" splitMode="left" keyType="label" />
+    <key left="61.6" top="15" width="5.4" splitMode="stretch" plain="_" shift=" " keyType="plainLetter" />
+    <key left="0" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="main" labelImage="keyboard"/>
+    <key left="5.6" top="20" splitMode="left" keyType="function" keyCode="speechInput" labelImage="ic_action_mic" />
+    <key left="11.2" top="20" splitMode="left" keyType="label" />
+    <key left="16.8" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Personen1" label="$emoji{U+1F46B}" />
+    <key left="22.4" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Natur1" label="$emoji{U+1F43A}" />
+    <key left="28" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Objekte1" label="$emoji{U+1F381}" />
+    <key left="33.6" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Orte1" label="$emoji{U+1F3E5}" />
+    <key left="39.2" top="20" splitMode="left" keyType="option" keyCode="changeLayout" targetLayout="Symbole1" label="$emoji{U+1F532}" />
+    <key left="44.8" top="20" splitMode="left" keyType="label" />
+    <key left="50.4" top="20" splitMode="left" keyType="label" />
+    <key left="56" top="20" splitMode="right" keyType="function" keyCode="cursorLeft" labelImage="cursor_left" />
+    <key left="61.6" top="20" width="5.4" splitMode="right" keyType="function" keyCode="cursorRight" labelImage="cursor_right" />
+  </layout>	
+    
+</BrightKeyboardLayout>
